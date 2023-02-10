@@ -1,0 +1,30 @@
+{
+  "pleaseWait": "Please Wait",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "close": "Close",
+  "dataEmpty": "Data Empty",
+
+  "animals": "Animals",
+  "saved": "Saved",
+  "somethingWrong": "Something Wrong",
+
+  "abilities": "Abilities",
+  "baseExperience": "Base Experience",
+  "forms": "Forms",
+  "gameIndices": "Game Indices",
+  "moves": "Moves",
+  "name": "Name",
+  "species": "Species",
+  "stats": "Stats",
+  "types": "Types",
+  "catch": "Catch",
+  "catchNewAnimal": "Catch New Animal",
+  "deleteConfirm": "Are you sure want to delete the animal?",
+  "delete": "delete",
+  "congratulation": "Congratulation, you've got:",
+
+  "createdBy": "Created by",
+  "creator": "M. Firmansyah Idris"
+}
